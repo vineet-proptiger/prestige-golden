@@ -13,7 +13,7 @@ const Footer = () => (
       <h2 style={{ fontSize: '24px', fontWeight: '800', fontFamily: F_JOST, marginBottom: '24px', letterSpacing: '0.05em' }} data-aos="fade-in">
         Prestige Group
       </h2>
-      <p style={{ fontSize: '14.5px', color: '#ccc', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '48px', maxWidth: '900px', margin: '0 auto 48px' }}
+      <p style={{ fontSize: '14.5px', color: '#ccc', fontFamily: F_SANS, lineHeight: 1.8, marginBottom: '48px', maxWidth: '900px', margin: '0 auto 48px', textAlign: 'justify' }}
         data-aos="fade-in" data-aos-delay="100">
         Prestige Group is one of India&apos;s leading and most respected real estate developers, with over three decades of excellence in delivering landmark residential, commercial, retail, and hospitality developments across major cities. Founded in 1986, the group has built a strong reputation for quality construction, innovative design, timely delivery, and customer trust. With a portfolio spanning millions of square feet and multiple award-winning projects, Prestige Group continues to shape modern urban lifestyles through thoughtfully planned communities, world-class amenities, and sustainable development practices.
       </p>
